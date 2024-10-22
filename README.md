@@ -47,4 +47,4 @@ interfoam
     <td><img src="./hydrodynamics.gif" width="600" height= "400"/></td>
     <td><img src="" width="200" height= "400" /></td>
   </tr>
-</table>. I want single image
+</table>
