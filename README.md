@@ -44,7 +44,7 @@ interfoam
     <th>signals</th>
   </tr>
   <tr>
-    <td><img src="./hydrodynamics.gif" width="300" height= "400"/></td>
+    <td><img src="./hydrodynamics.gif" width="200" height= "400"/></td>
     <td><img src="" width="200" height= "400" /></td>
   </tr>
 </table>. I want single image
