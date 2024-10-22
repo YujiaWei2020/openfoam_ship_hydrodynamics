@@ -4,7 +4,7 @@ Openfoam ship hydrodynamics
 # Cite
 If you use this work in your research, please cite the following papers:
 
-'''
+```
 @article{wei2022fully,
   title={A fully coupled CFD-DMB approach on the ship hydroelasticity of a containership in extreme wave conditions},
   author={Wei, Yujia and Incecik, Atilla and Tezdogan, Tahsin},
@@ -25,7 +25,7 @@ If you use this work in your research, please cite the following papers:
   year={2023},
   publisher={Elsevier}
 }
-'''
+```
 
 # Mesh generation
 BlockMesh
