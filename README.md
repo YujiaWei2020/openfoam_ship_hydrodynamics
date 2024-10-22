@@ -1,5 +1,5 @@
 # openfoam_ship_hydrodynamics
-Openfoam ship hydrodynamics 
+This repository contains OpenFOAM implementations for ship hydrodynamics in heading wave simulations.
 
 # Cite
 If you use this work in your research, please cite the following papers:
